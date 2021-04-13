@@ -10,9 +10,7 @@ export class AppComponent  {
   console.log('hi there.....');
   console.log('test issue 2');
   console.log('test issue 3/18');
-
-
-
+  console.log('test issue 4/19');
 }
 
 
