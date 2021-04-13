@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  console.log('creating new branch and new PR');
+  console.log('testing custom pull request');
 
 
 }
