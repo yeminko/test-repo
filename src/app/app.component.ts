@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   console.log('testing custom pull request');
+  console.log('hi there.....');
 
 
 }
