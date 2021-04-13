@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  console.log('hello world');
-  console.log('to test PR')
+  console.log('creating new branch and new PR');
+
 
 }
 
