@@ -9,6 +9,7 @@ export class AppComponent  {
   console.log('testing custom pull request');
   console.log('hi there.....');
   console.log('test issue 2');
+  console.log('test issue 3/18');
 
 
 
