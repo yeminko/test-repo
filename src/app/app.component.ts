@@ -8,6 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent  {
   console.log('testing custom pull request');
   console.log('hi there.....');
+  console.log('test issue 2');
+
 
 
 }
