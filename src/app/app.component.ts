@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   console.log('hello world');
+  console.log('to test PR')
 
 }
 
